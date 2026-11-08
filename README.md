@@ -2,21 +2,33 @@
 
 ```text
 diego paz — compsci @ uss
-location    chile
+focus    embedded systems · firmware architecture · cloud infrastructure
+location chile
 ```
 
-### `~ $ ls projects --sort=stars`
+### `~ $ ls projects --tree`
 
 <table>
-<thead><tr><th align="left">Project</th><th align="left">About</th><th align="right">★</th></tr></thead>
+<thead><tr><th align="left">Category / Project</th><th align="left">Technical Scope & Architecture</th><th align="right">Focus</th></tr></thead>
 <tbody>
-<tr><td align="left"><a href="https://github.com/dieeh/pr_infraTI">pr_infraTI</a></td><td align="left">Proyecto académico de infraestructura multicloud para una plataforma EdTech, utilizando Terraform, AWS, Google Cloud, Docker y PostgreSQL</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/dieeh/mioelectric-teleton2026">mioelectric-teleton2026</a></td><td align="left">Firmware para una prótesis biomecánica de mano accionada por microactuadores lineales, desarrollado en C++ sobre ESP32 y FreeRTOS, con control de movimiento, retroalimentación mediante encoder y adquisición de señales electromiográficas, en el contexto del desafío Teletón-USS 2026</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/dieeh/pr_hito">pr_hito</a></td><td align="left">Sistema de gestión y análisis de inventario desarrollado con Python, Streamlit y SQLite, con seguimiento de existencias, visualización de indicadores y modelos de optimización de inventario</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/dieeh/streamlit_s3">streamlit_s3</a></td><td align="left">Dashboard interactivo de análisis de generación eléctrica global, desarrollado con Python, Streamlit, Pandas y Plotly, con comparaciones por país, fuentes energéticas y visualizaciones geográficas</td><td align="right">0</td></tr>
-<tr><td align="left"><a href="https://github.com/dieeh/pr_terreneitor">pr_terreneitor</a></td><td align="left">Firmware para un vehículo robótico autónomo seguidor de línea, desarrollado con ESP32 y MicroPython, integrando sensores infrarrojos, cuatro motores DC y dirección mediante servomotor</td><td align="right">0</td></tr>
+<!-- Embedded & Robotics Systems -->
+<tr><td align="left"><b>[Embedded & Firmware]</b><br><a href="https://github.com/dieeh/mioelectric-teleton2026">mioelectric-teleton2026</a></td><td align="left">Firmware para prótesis biomecánica transradial pediátrica. Arquitectura multihilo en C++ sobre ESP32 con FreeRTOS, control PID/PWM de microactuadores N20, adquisición de señales EMG y retroalimentación de posición vía encoders (Desafío USS-Teletón 2026).</td><td align="right"><b>Core</b></td></tr>
+<tr><td align="left"><b>[Embedded & Robotics]</b><br><a href="https://github.com/dieeh/pr_terreneitor">pr_terreneitor</a></td><td align="left">Sistema embebido de control y navegación para robot móvil autónomo. Firmware en MicroPython sobre ESP32, lectura diferencial de sensores IR en tiempo real y lógica de tracción/dirección 4WD.</td><td align="right">Core</td></tr>
+<!-- Cloud & Infrastructure -->
+<tr><td align="left"><b>[Cloud & IaC]</b><br><a href="https://github.com/dieeh/pr_infraTI">pr_infraTI</a></td><td align="left">Arquitectura de infraestructura multicloud como código (IaC) para plataforma EdTech. Aprovisionamiento automatizado con Terraform sobre AWS y Google Cloud, contenedores Docker y PostgreSQL.</td><td align="right">Infra</td></tr>
+<!-- Software & Analytics -->
+<tr><td align="left"><b>[Software & Data]</b><br><a href="https://github.com/dieeh/pr_hito">pr_hito</a></td><td align="left">Plataforma analítica y motor de gestión de inventario en Python con Streamlit y SQLite. Algoritmos de optimización de existencias, punto de reorden y análisis de KPIs en tiempo real.</td><td align="right">App</td></tr>
+<tr><td align="left"><b>[Software & Data]</b><br><a href="https://github.com/dieeh/streamlit_s3">streamlit_s3</a></td><td align="left">Dashboard interactivo de análisis energético global. Procesamiento de series de tiempo con Pandas, renders geoespaciales y visualizaciones dinámicas con Plotly y Streamlit.</td><td align="right">App</td></tr>
 </tbody>
 </table>
+
+### `~ $ cat core_stack.txt`
+
+```text
+languages    C++, C, Python, MicroPython, SQL, HCL
+embedded     ESP32, FreeRTOS, Actuators, EMG Sensors, GPIO/PWM, Encoders
+cloud & dev  Terraform, AWS, Google Cloud, Docker, Git, PostgreSQL
+```
 
 ### `~ $ cat stack.txt`
 
