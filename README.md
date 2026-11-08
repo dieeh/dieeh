@@ -6,6 +6,20 @@ focus    embedded systems · firmware architecture · cloud infrastructure
 location chile
 ```
 
+### `~ $ cat stack.md`
+
+![C++](https://img.shields.io/badge/C++-24292e?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-24292e?style=flat-square&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-24292e?style=flat-square&logo=espressif&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-24292e?style=flat-square&logo=freertos&logoColor=white)
+![Python](https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-24292e?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24292e?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-24292e?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-24292e?style=flat-square&logo=google-cloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292e?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-24292e?style=flat-square&logo=git&logoColor=white)
+
 ### `~ $ ls projects --tree`
 
 <table>
