@@ -55,17 +55,6 @@ c++         ██                     4%
 html        █                      2%
 ```
 
-### `~ $ stats`
-
-```text
-repositories   6
-stars          0
-followers      6
-contributions  39 (last 12 months)
-```
-
 ### `~ $ contact`
 
-[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/dieeh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-pazl)
-
+<a href="https://github.com/dieeh"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1);"> GitHub</a> · <a href="https://www.linkedin.com/in/diego-pazl"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="16" height="16" style="vertical-align: middle; filter: invert(1);"> LinkedIn</a>
