@@ -66,6 +66,6 @@ contributions  39 (last 12 months)
 
 ### `~ $ contact`
 
-<a href="https://github.com/dieeh">GitHub</a>
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat-square&logo=github&logoColor=white)](https://github.com/dieeh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-pazl)
 
-<sub>Plain Terminal · every line is real data · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
